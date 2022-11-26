@@ -1,4 +1,4 @@
-module go-utils
+module github.com/towerdefence-cc/go-utils
 
 go 1.19
 
